@@ -1,0 +1,9 @@
+#body-user #header,
+#body-settings #header,
+#body-public #header {
+	background-color: #294567;
+}
+
+#body-login {
+	background: #294567;
+}

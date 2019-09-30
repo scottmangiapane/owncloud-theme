@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<info>
+	<id>theme-custom</id>
+	<name>Custom ownCloud Theme</name>
+	<description>This app provides a custom ownCloud theme.</description>
+	<licence>MIT</licence>
+	<author>Scott Mangiapane</author>
+	<version>1.0.0</version>
+	<types>
+		<theme/>
+	</types>
+	<dependencies>
+		<owncloud min-version="10.2" max-version="10" />
+	</dependencies>
+	<namespace>Theme</namespace>
+</info>
