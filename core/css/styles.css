@@ -1,9 +1,13 @@
 #body-user #header,
 #body-settings #header,
 #body-public #header {
-	background-color: #1d2d43;
+	background-color: #072041;
 }
 
 #body-login {
-	background: #1d2d43;
+	background: #072041;
+}
+
+#body-login .v-align {
+	background-color: transparent;
 }
