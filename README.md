@@ -1,5 +1,11 @@
 ## Owncloud Theme
 
+## Screenshots
+
+<img src="screenshot.png" width="800">
+
+## Getting Started
+
 1. Assuming you're running owncloud with docker and docker-compose, connect to your container:
    - `docker ps`
    - `docker exec -it <container id> bash`
